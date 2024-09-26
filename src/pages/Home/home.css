@@ -1,0 +1,9 @@
+.custom-container {
+  background: linear-gradient(228deg, #d32f2f 47%, white 17%);
+}
+
+@media (max-width: 640px) {
+  .custom-container {
+    background: linear-gradient(180deg, #d32f2f 47%, white 17%);
+  }
+}
